@@ -1,0 +1,17 @@
+/app/app.iml
+/aosp_launcher.iml
+/gradle
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/.idea
+/build
+/captures
+/gradlew
+/gradlew.bat
+/gradle.properties
+/protobuf/protobuf.iml
+/app/build
+/protobuf/build
